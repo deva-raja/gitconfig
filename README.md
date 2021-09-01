@@ -1,6 +1,6 @@
 # gitconfig
 
-1. go to the root folder
+1. go to the root folder - command : cd (in gitbash)
 
 2. list all files,including the hidden files - command : ls -la
 
