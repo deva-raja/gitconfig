@@ -1,0 +1,19 @@
+[user]
+	email = user email
+	name = user name
+[color]
+	ui=auto	
+[alias]
+	s = status
+	l = log
+	c =  commit 
+	ch = checkout
+	b = branch
+	a = add
+	c = commit
+	cob = checkout -b
+	cm = !git add -A && git commit -m
+	amend = commit --amend
+	stp = subtree push --prefix dist origin gh-pages
+	lo = log --oneline
+	ri = rebase -i
