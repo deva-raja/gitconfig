@@ -1,9 +1,9 @@
 # gitconfig
 
-1. go to the root folder - command : cd (in gitbash)
+1. go to the root folder: $ cd (in gitbash)
 
-2. list all files,including the hidden files - command : ls -la
+2. list all files,including the hidden files: $ ls -la
 
-3. open .gitconfig - command : code -r .gitconfig
+3. open .gitconfig: $ code -r .gitconfig
 
 4. paste values accordingly
